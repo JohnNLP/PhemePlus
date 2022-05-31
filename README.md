@@ -6,3 +6,5 @@ All rumours which had search results should have corresponding URLs.
 Unfortunately, you'll have to download evidence from the URLs yourself due to copyright law.
 
 An evidence downloader will be made available in due course to make this easy.
+
+Please note that evidence counts will be slightly different to those in the paper, seeing as I had to redo the search process to obtain URLs (rather than articles that can not be shared).
