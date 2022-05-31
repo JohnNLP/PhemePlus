@@ -7,4 +7,4 @@ Unfortunately, you'll have to download evidence from the URLs yourself due to co
 
 An evidence downloader will be made available in due course to make this easy.
 
-Please note that evidence counts will be slightly different to those in the paper, seeing as I had to redo the search process to obtain URLs (rather than articles that can not be shared).
+Please note that evidence counts will be slightly different to those in the paper, seeing as the search process had to be re-performed to obtain URLs (replacing articles which can not be shared).
